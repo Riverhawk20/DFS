@@ -1,0 +1,7 @@
+.gridStyle {
+  width: 100%;
+  background-color: white;
+}
+.gridStyle:hover {
+  box-shadow: none !important;
+}
